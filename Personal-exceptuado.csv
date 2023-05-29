@@ -1,0 +1,7 @@
+Nombre;apellido;direccion;dni;edad;telefono;factor de riesgo;organismo
+Juan;Perez;Calle del Sol 456;12345678;58;555-1234;edad;Secretaria de Salud
+Ana;Torres;Av. Siempreviva 123;23456789;65;333-5678;enfermedad pre-existente;Secretaria de Educación
+Luisa;Hernandez;Calle del Bosque 789;34567890;55;818-9012;edad;Secretaria de Hacienda
+Sofia;Rodriguez;Av. de la Luna 246;45678901;50;222-3456;enfermedad pre-existente;Secretaria de Salud
+Laura;Diaz;Calle del Mar 135;56789012;70;664-7890;edad;Secretaria de Cultura
+juan;zoto;Calle del Mar 133;56789012;70;664-7890;enfermedad pre-existente;Secretaria de Cultura
